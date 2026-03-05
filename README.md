@@ -1,8 +1,6 @@
 <div align="center">
-<!-- Orchid Banner -->
-<img src="./Cattleya_Background.png" width="100%" />
 <!-- Name & title in elegant serif via capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=fdf6f0&height=120&section=header&text=kataliya%20sungkamee&fontSize=46&fontColor=4a3728&fontAlignY=55&fontFamily=Georgia&desc=cs%20%2B%20marketing%20%E2%80%A2%20builder%20%2B%20creator&descAlignY=80&descColor=9c7c6e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=AD0034&height=120&section=header&text=Kataliya%20Sungkamee&fontSize=46&fontColor=E9E5DE&fontAlignY=55&fontFamily=Georgia&desc=CS%20%2B%20Business%20%E2%80%A2%20Product%20%2B%20Strategy&descAlignY=80&descColor=9c7c6e&animation=fadeIn" width="100%" />
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&pause=1000&color=9C7C6E&center=true&vCenter=true&width=520&lines=full-stack+developer+%F0%9F%92%BB;ux+%2B+design+researcher+%F0%9F%94%AC;marketing+strategist+%F0%9F%8C%BF;content+creator+%E2%9C%A8;sfsu+%2726+%E2%80%A2+cs+%2B+business" alt="Typing SVG" />

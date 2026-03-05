@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Orchid Banner -->
-<img src="./Cattleya_Background.png" width="100%" />
+<img src="./Cattleya Background.pdf" width="100%" />
 <!-- Name & title in elegant serif via capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=fdf6f0&height=120&section=header&text=kataliya%20sungkamee&fontSize=46&fontColor=4a3728&fontAlignY=55&fontFamily=Georgia&desc=cs%20%2B%20marketing%20%E2%80%A2%20builder%20%2B%20creator&descAlignY=80&descColor=9c7c6e&animation=fadeIn" width="100%" />
 <!-- Typing animation -->

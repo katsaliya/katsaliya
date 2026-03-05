@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=hi,%20i'm%20liya%20✦&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=cs%20%2B%20marketing%20%7C%20builder%20%2B%20creator&descAlignY=58&descColor=e2d9f3&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I'm%20Kataliya%20✦&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=cs%20%2B%20marketing%20%7C%20builder%20%2B%20creator&descAlignY=58&descColor=e2d9f3&animation=fadeIn" width="100%" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=full-stack+developer+%F0%9F%92%BB;ux+%2B+design+researcher+%F0%9F%94%AC;marketing+strategist+%F0%9F%8C%BF;content+creator+%E2%9C%A8;sfsu+%2726+%E2%80%A2+cs+%2B+business" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=full-stack+developer+%F0%9F%92%BB;ux+%2B+product+design+researcher+%F0%9F%94%AC;marketing+strategist+%F0%9F%8C%BF;content+creator+%E2%9C%A8;sfsu+%2726+%E2%80%A2+cs+%2B+business" alt="Typing SVG" />
 </a>
 
 <br/>

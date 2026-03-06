@@ -7,21 +7,25 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&pause=1000&color=AD0034&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Product+Management+%E2%AD%90%EF%B8%8F;Strategy+%F0%9F%94%8E;Marketing+%F0%9F%93%88;Content+Creator+%F0%9F%8E%A5;Cat+Mom+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" />
 </a>
+
 <br/>
 <a href="https://linkedin.com/in/katsaliya"><img src="https://img.shields.io/badge/LinkedIn-AD0034?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://tiktok.com/@katsaliya"><img src="https://img.shields.io/badge/TikTok-1a0010?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 <a href="mailto:ksungkamee@sfsu.edu"><img src="https://img.shields.io/badge/Email-d4607a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 </div>
 
-✦ about me
-pythonliya = {
-    "name":       "Kataliya Sungkamee",
-    "education":  "CS + Marketing @ San Francisco State University '26",
-    "currently":  ["job hunting 👀", "building cool things", "drinking too much matcha"],
-    "interests":  ["full-stack dev", "ux research", "beauty & luxury tech", "human-centered design"],
-    "fun_fact":   "grew up in a thai restaurant kitchen 🍜 → now i code and create content"
-}
-I'm a double major in Computer Science & Marketing with a love for building things that sit at the intersection of tech, design, and people. Whether I'm architecting a database schema, interviewing maritime workers for design research, or scripting a TikTok — I'm always thinking about the human behind the experience.
+✦ **about me**
+🎓 **education **  Dual B.S. in Computer Science & Business Marketing · 3.5 GPA · SFSU '26
+🔨 **currently**
+
+Collaborating with the SUGAR Network on design research to make the maritime industry more attractive and mentally healthy for the next generation of seafarers
+Building a new L'Oréal Luxe product concept for the L'Oréal Brandstorm 2026 global competition
+Creating beauty, fashion & lifestyle content for 70K+ followers on TikTok
+👋 Open to new grad roles — actively job hunting!
+
+💡 interests   Product · Strategy · AI · Full-Stack Development · Human-Centered Design · Beauty & Luxury Tech
+🍜 fun fact   I grew up in a Thai restaurant kitchen → now I build software, design products, and create content. Also, my cat's name is Miso-san 🐈‍⬛
 
 ✦ tech stack
 <div align="center">

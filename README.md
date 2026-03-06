@@ -33,14 +33,14 @@
 
 ✦ **TECH STACK**
 <div align="center">
-**languages**
+<strong>languages</strong><br/><br/>
 <img src="https://img.shields.io/badge/Python-AD0034?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-d4607a?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-c94060?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-8B2040?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-d4607a?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-AD0034?style=for-the-badge&logo=css3&logoColor=white"/>
-**frameworks & tools**
+<br/><strong>frameworks & tools</strong><br/><br/>
 <img src="https://img.shields.io/badge/Node.js-8B2040?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-AD0034?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-1a0010?style=for-the-badge&logo=express&logoColor=white"/>
@@ -48,11 +48,10 @@
 <img src="https://img.shields.io/badge/Git-d4607a?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-AD0034?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-c94060?style=for-the-badge&logo=figma&logoColor=white"/>
-**ai & data**
+<br/><strong>ai & data</strong><br/><br/>
 <img src="https://img.shields.io/badge/LLMs-8B2040?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-AD0034?style=for-the-badge&logo=pandas&logoColor=white"/>
 </div>
-
 ✦ github stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=fdf6f0&title_color=4a3728&icon_color=9C7C6E&text_color=4a3728" height="165"/>

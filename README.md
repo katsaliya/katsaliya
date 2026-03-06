@@ -16,7 +16,9 @@
 </div>
 
 ✦ **about me** 
+
 🎓 **education**  Dual B.S. in Computer Science & Business Marketing · 3.5 GPA · SFSU '26
+
 🔨 **currently**
 
 Collaborating with the SUGAR Network on design research to make the maritime industry more attractive and mentally healthy for the next generation of seafarers

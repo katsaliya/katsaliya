@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&pause=1000&color=AD0034&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Product+Management+%E2%AD%90%EF%B8%8F;Strategy+%F0%9F%94%8E;Marketing+%F0%9F%93%88;Content+Creator+%F0%9F%8E%A5;Cat+Mom+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" />
 </a>
 <br/>
-Show Image
-Show Image
-Show Image
+<a href="https://linkedin.com/in/katsaliya"><img src="https://img.shields.io/badge/LinkedIn-AD0034?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://tiktok.com/@katsaliya"><img src="https://img.shields.io/badge/TikTok-1a0010?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="mailto:ksungkamee@sfsu.edu"><img src="https://img.shields.io/badge/Email-d4607a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ✦ about me

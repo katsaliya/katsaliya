@@ -1,6 +1,8 @@
 <div align="center">
+  
 <!-- Name & title in elegant serif via capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=AD0034&height=120&section=header&text=Kataliya%20Sungkamee&fontSize=46&fontColor=E9E5DE&fontAlignY=55&fontFamily=Georgia&desc=CS%20%2B%20Business%20%E2%80%A2%20Product%20%2B%20Strategy&descAlignY=80&descColor=9c7c6e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=AD0034&height=130&section=header&text=Hi%20there!%20I%27m%20Kataliya%20Sungkamee&fontSize=38&fontColor=E9E5DE&fontAlignY=48&fontFamily=Georgia&desc=CS%20%2B%20Marketing%20%40%20San%20Francisco%20State%20University%20%2726&descSize=20&descAlignY=72&descColor=E9E5DE&animation=fadeIn" width="100%" />
+
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&pause=1000&color=9C7C6E&center=true&vCenter=true&width=520&lines=full-stack+developer+%F0%9F%92%BB;ux+%2B+design+researcher+%F0%9F%94%AC;marketing+strategist+%F0%9F%8C%BF;content+creator+%E2%9C%A8;sfsu+%2726+%E2%80%A2+cs+%2B+business" alt="Typing SVG" />

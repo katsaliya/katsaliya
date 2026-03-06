@@ -45,47 +45,6 @@ Show Image
 Show Image
 </div>
 
-✦ featured projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐊 GatorAid</h3>
-      <p>A peer tutoring platform built for SFSU students. Full-stack web app with token-based auth, RESTful API, and a clean EJS/Tailwind frontend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-7a9e8e?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-9C7C6E?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-c8a49a?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛍️ Retail Database System</h3>
-      <p>30+ table MySQL retail schema with advanced return management, stored procedures, triggers, views, and a custom Python ORM using the Active Record pattern.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MySQL-9C7C6E?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-7a9e8e?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 LLM Coding Agent</h3>
-      <p>Autonomous coding agent powered by Qwen2.5 via llama-cpp-python. Capable of writing, executing, and debugging code end-to-end without human prompting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-7a9e8e?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LLMs-9C7C6E?style=flat-square&logo=openai&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌊 Maritime Wellbeing Research</h3>
-      <p>Design research initiative through the SUGAR Network (SFSU × École des Ponts × Deep Blue Foundation) — interviewing seafarers and synthesizing insights on workforce wellbeing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/UX%20Research-c8a49a?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Miro-9C7C6E?style=flat-square&logo=miro&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ✦ github stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=fdf6f0&title_color=4a3728&icon_color=9C7C6E&text_color=4a3728" height="165"/>

@@ -15,17 +15,17 @@
 
 </div>
 
-✦ **about me**
-🎓 **education **  Dual B.S. in Computer Science & Business Marketing · 3.5 GPA · SFSU '26
+✦ **about me** 
+🎓 **education**  Dual B.S. in Computer Science & Business Marketing · 3.5 GPA · SFSU '26
 🔨 **currently**
 
 Collaborating with the SUGAR Network on design research to make the maritime industry more attractive and mentally healthy for the next generation of seafarers
 Building a new L'Oréal Luxe product concept for the L'Oréal Brandstorm 2026 global competition
-Creating beauty, fashion & lifestyle content for 70K+ followers on TikTok
+Creating beauty, fashion & lifestyle content for 60K+ followers on TikTok
 👋 Open to new grad roles — actively job hunting!
 
-💡 interests   Product · Strategy · AI · Full-Stack Development · Human-Centered Design · Beauty & Luxury Tech
-🍜 fun fact   I grew up in a Thai restaurant kitchen → now I build software, design products, and create content. Also, my cat's name is Miso-san 🐈‍⬛
+💡 **interests**   Product · Strategy · AI · Full-Stack Development · Human-Centered Design · Beauty & Luxury Tech
+🍜 **fun fact**   I grew up in a Thai restaurant kitchen → now I build software, design products, and create content. Also, my daughter's name is Miso-san 🐈‍⬛
 
 ✦ tech stack
 <div align="center">

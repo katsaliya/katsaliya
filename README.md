@@ -58,8 +58,3 @@
 <img src="https://img.shields.io/badge/Hugging_Face-AD0034?style=for-the-badge&logo=huggingface&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLMs-8B2040?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
-
-<div align="center">
-"design everything like someone's going to feel it"
-<img src="https://capsule-render.vercel.app/api?type=soft&color=fdf6f0&height=60&section=footer" width="100%" />
-</div>

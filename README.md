@@ -15,7 +15,7 @@
 
 </div>
 
-✦ **about me** 
+✦ **ABOUT ME** 
 
 🎓 **education**  Dual B.S. in Computer Science & Business Marketing · 3.5 GPA · SFSU '26
 
@@ -31,26 +31,26 @@
 🍜 **fun fact**   I grew up in a Thai restaurant kitchen → now I build software, design products, and create content. Also, my daughter's name is Miso-san 🐈‍⬛
 
 
-✦ tech stack
+✦ **TECH STACK**
 <div align="center">
-languages
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-frameworks & tools
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-ai & data
-Show Image
-Show Image
+**languages**
+<img src="https://img.shields.io/badge/Python-AD0034?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-d4607a?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-c94060?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-8B2040?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-d4607a?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-AD0034?style=for-the-badge&logo=css3&logoColor=white"/>
+**frameworks & tools**
+<img src="https://img.shields.io/badge/Node.js-8B2040?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-AD0034?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-1a0010?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-8B2040?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-d4607a?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-AD0034?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-c94060?style=for-the-badge&logo=figma&logoColor=white"/>
+**ai & data**
+<img src="https://img.shields.io/badge/LLMs-8B2040?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-AD0034?style=for-the-badge&logo=pandas&logoColor=white"/>
 </div>
 
 ✦ github stats

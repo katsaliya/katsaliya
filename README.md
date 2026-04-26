@@ -10,7 +10,6 @@
 
 <br/>
 <a href="https://linkedin.com/in/katsaliya"><img src="https://img.shields.io/badge/LinkedIn-AD0034?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://tiktok.com/@katsaliya"><img src="https://img.shields.io/badge/TikTok-1a0010?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 <a href="mailto:ksungkamee@sfsu.edu"><img src="https://img.shields.io/badge/Email-d4607a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
@@ -22,14 +21,10 @@
 🔨 **currently**
 
 - Collaborating with the SUGAR Network on design research to make the maritime industry more attractive and mentally healthy for the next generation of seafarers
-- Building a new L'Oréal Luxe product concept for the L'Oréal Brandstorm 2026 global competition
 - Creating beauty, fashion & lifestyle content for 60K+ followers on TikTok
 👋 Open to new grad roles — actively job hunting!
 
-💡 **interests**   Product · Strategy · AI · Full-Stack Development · Human-Centered Design · Beauty & Luxury Tech
-
-🍜 **fun fact**   I grew up in a Thai restaurant kitchen → now I build software, design products, and create content. Also, my daughter's name is Miso-san 🐈‍⬛
-
+💡 **interests**   Product · Strategy · AI · Full-Stack Development · Human-Centered Design 
 
 ✦ **TECH STACK**
 <div align="center">

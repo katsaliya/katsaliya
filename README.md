@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&pause=1000&color=AD0034&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Product+Management+%E2%AD%90%EF%B8%8F;Strategy+%F0%9F%94%8E;Marketing+%F0%9F%93%88;Content+Creator+%F0%9F%8E%A5;Cat+Mom+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&pause=1000&color=AD0034&center=true&vCenter=true&width=520&lines=Designer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Product+Management+%E2%AD%90%EF%B8%8F;Strategy+%F0%9F%94%8E;Marketing+%F0%9F%93%88;Content+Creator+%F0%9F%8E%A5;Cat+Mom+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 - Creating beauty, fashion & lifestyle content for 60K+ followers on TikTok
 👋 Open to new grad roles — actively job hunting!
 
-💡 **interests**   Product · Strategy · AI · Full-Stack Development · Human-Centered Design 
+💡 **interests**   Product · Strategy · AI · Human-Centered Design · Front-end Developement
 
 ✦ **TECH STACK**
 <div align="center">

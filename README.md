@@ -29,24 +29,21 @@
 ✦ **TECH STACK**
 <div align="center">
 <strong>languages</strong><br/><br/>
-<img src="https://img.shields.io/badge/Python-AD0034?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-d4607a?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-c94060?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-c94060?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-8B2040?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-8B2040?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-d4607a?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-AD0034?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-c94060?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-AD0034?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-8B2040?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-8B2040?style=for-the-badge&logo=mysql&logoColor=white"/>
 <br/><strong>frameworks & tools</strong><br/><br/>
 <img src="https://img.shields.io/badge/Node.js-8B2040?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-AD0034?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-1a0010?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-8B2040?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-c94060?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-AD0034?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-d4607a?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-d4607a?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-AD0034?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-c94060?style=for-the-badge&logo=figma&logoColor=white"/>
 <br/><strong>ai & data</strong><br/><br/>
 <img src="https://img.shields.io/badge/OpenAI_API-1a0010?style=for-the-badge&logo=openai&logoColor=white"/>
